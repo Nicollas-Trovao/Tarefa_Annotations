@@ -1,6 +1,6 @@
 package Anotacoes;
 
-@Tabela(Funcionarios = "")
+@Tabela(Funcionarios = "Funcionarios")
 public class ClasseComAnotacao  {
 
     public static void main(String [] args){
